@@ -1,1 +1,1 @@
-# 202209190
+print("Hello World")
